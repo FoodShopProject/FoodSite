@@ -1,4 +1,5 @@
-﻿import { Categories } from "./categories";
+﻿// my comment
+import { Categories } from "./categories";
 
 export class Dish {
     id: number;
