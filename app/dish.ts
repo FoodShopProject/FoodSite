@@ -1,4 +1,5 @@
 ﻿// my comment
+// my second comment
 import { Categories } from "./categories";
 
 export class Dish {
